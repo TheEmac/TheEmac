@@ -17,7 +17,7 @@ I build tools that make data useful — from production pipelines to full-stack 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/GitHUB-123456?style=flat&logo=git&logoColor=white)
 ---
 
 ## 📌 Featured Project
