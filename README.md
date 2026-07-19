@@ -22,7 +22,7 @@ I build tools that make data useful — from production pipelines to full-stack 
 
 ## 📌 Featured Project
 
-### [Inventory Management System](./inventory-management-system)
+### [Inventory Management System](https://github.com/TheEmac/SeniorProject)
 
 > Senior capstone project — Python · MySQL
 
